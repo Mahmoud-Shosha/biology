@@ -1,0 +1,12 @@
+{
+  "name": "wife-exam",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "playwright test",
+    "serve": "node tests/serve.js"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.0"
+  }
+}
